@@ -1,0 +1,13 @@
+1.What is the default value of Arrays for different data types?
+In Java, arrays are initialized with default values based on their data type:
+Numeric types (int, float, double, etc.): 0
+Boolean: false
+Objects (reference types): null
+
+2.Can you pass the negative number in Array size?
+No, array sizes must be non-negative integers. You cannot pass a negative number as an array size.
+Where does Array stored in JVM memory?
+
+3.Arrays in Java are stored in the heap memory, which is the area of memory reserved for dynamically allocated objects.
+What are the disadvantages of Arrays?
+Disadvantages of arrays include their fixed size (cannot be resized), lack of built-in methods for common operations (like adding/removing elements), and memory inefficiency for sparse data.
