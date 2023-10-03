@@ -1,0 +1,24 @@
+1.what is computer?
+ans:- It is a electronic device which stores and process data and
+performs and executes task for us. It has many input and output devices.
+
+2.What is RAM?
+:- RAM stands for Random Access Memory. It stores temporary data at the time working. After shutting down the computer it realise all data.
+
+3.Where data is stored in computer?
+:- Data is typically stored in storage device like - HDD , SDD and some external devices also where all programs , data are stored.
+
+4.What device is used to type text as a input?
+:- Keyboard is used in this case.
+
+5.What are the output devices?
+:- Monitor , Printer , speaker etc , these are output devices which takes data from computer and shows it to user.
+
+6.Which input device is used to move cursor on the screen?
+:- mouse is used to move pointer and cursor in computer.
+
+7.Which language computer directly understands without translation?
+:- Computer can directly understand Machine language and binary code.
+
+8.What are the input devices?
+:- Keyboard , Mouse etc these take data from user and give that to computer
