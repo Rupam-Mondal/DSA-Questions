@@ -1,0 +1,14 @@
+1.What is a Java Constructor?
+:-A constructor in Java is a special type of method that is called when an object of a class is created. It initializes the object's state and allocates memory for it. Constructors have the same name as the class and don't have a return type.
+
+2.What is a Constructor Overloading?
+:-Constructor overloading in Java refers to defining multiple constructors within a class, each with a different parameter list. This allows objects of the class to be created with different initializations. Java determines which constructor to invoke based on the number and type of arguments provided during object creation.
+
+3.Can you call a class constructor from another class constructor using "this" or "super"?
+:-Yes, you can call a constructor of one class from another class using either "this" or "super" keywords. "this" is used to call a constructor within the same class, while "super" is used to call a constructor from the superclass.
+
+4.What happens if you don't provide any constructor explicitly?
+:-If you don't provide any constructor explicitly in a Java class, the compiler will automatically generate a default constructor with no arguments. This default constructor initializes instance variables to their default values (e.g., null for reference types, 0 for numeric types).
+
+5.How is a No-Arg Constructor different from a Default Constructor?
+:-A no-arg constructor is a constructor that takes no arguments, but it can be explicitly defined by the programmer. A default constructor is automatically provided by the compiler if no constructors are defined in the class. Essentially, they serve the same purpose when they have no parameters.
