@@ -1,0 +1,26 @@
+1.How to check if Git is available on your system:
+:-To check if Git is available on your system, you can open your command prompt or terminal and type "git --version." If Git is installed, it will display the installed version of Git.
+
+2.How to initialize a new Git repository:
+:-To initialize a new Git repository, you can navigate to the directory where your project is located and use the "git init" command. This command sets up a new Git repository in that directory.
+
+3.How to tell Git about your name and email:
+:-To tell Git about your name and email, you can use the following commands:
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+
+4.How to add a file to the staging area
+:-To add a file to the staging area, you can use the "git add" command followed by the name of the file you want to stage. For example: git add filename.
+
+5.How to remove a file from the staging area
+:-To remove a file from the staging area, you can use the "git reset" command followed by the name of the file you want to unstage. For example: git reset filename.
+
+6.How to make a commit
+:-To make a commit, you can use the "git commit" command followed by a commit message. For example: git commit -m "Your commit message here".
+
+7.How to send your changes to a remote repository
+:-To send your changes to a remote repository, you can use the "git push" command. It typically involves specifying the remote repository and the branch you want to push to. For example: git push origin master.
+
+8.Difference between "clone" and "pull"
+:-"Clone" is used to create a copy of a remote repository on your local machine. It's typically used when you want to start working on a project from scratch.
+"Pull" is used to update your local repository with changes from a remote repository. It's used when you want to fetch the latest changes made by others in a collaborative environment.
