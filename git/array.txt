@@ -1,0 +1,36 @@
+1.What do you mean by an array?
+:-An array is a data structure in programming that allows you to store multiple elements of the same data type in a single variable. It provides a way to access and manipulate a collection of values using a single identifier.
+
+2.How to create an array?
+:-int[] arr = new int[size];
+
+3.Can we change the size of an array at runtime?
+:-In many programming languages like Java, the size of an array is fixed once it's created and cannot be changed at runtime. You would need to create a new array if you need a different size.
+
+4.Can you declare an array without assigning the size of an array?
+:-In some programming languages, like JavaScript, you can declare an array without specifying its size. The size will dynamically adjust as you add or remove elements.
+
+5.What is the default value of an array?
+:-In many programming languages, the default value for numeric arrays is usually 0, while for reference types (like objects), it's often null.
+
+6.What is a 1D array with an example?
+:-int[] numbers = {1, 2, 3, 4, 5};
+
+7.write a program of 2d array?
+:-
+public class TwoDArrayExample {
+    public static void main(String[] args) {
+        int[][] matrix = {
+            {1, 2, 3},
+            {4, 5, 6},
+            {7, 8, 9}
+        };
+        
+        for (int i = 0; i < 3; i++) {
+            for (int j = 0; j < 3; j++) {
+                System.out.print(matrix[i][j] + " ");
+            }
+            System.out.println();
+        }
+    }
+}
