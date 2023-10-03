@@ -1,0 +1,8 @@
+1.What is Encapsulation in Java? Why is it important?
+:-Encapsulation in Java is one of the four fundamental Object-Oriented Programming (OOP) concepts. It involves bundling data (attributes) and methods (functions) that operate on that data into a single unit called a class. Encapsulation helps in hiding the internal details of an object and providing controlled access to its state. It is important for data security, code maintainability, and preventing unauthorized access to an object's properties.
+
+2.What are the important features of Encapsulation?
+:-Important features of encapsulation in Java include data hiding (making fields private), providing getter and setter methods for controlled access to fields, and maintaining the integrity of the object's state by encapsulating data within a class.
+
+3.What are getter and setter methods in Java? Explain with an example.
+:-Getter methods are used to retrieve the values of private fields (data members), and setter methods are used to set or modify the values of private fields. They provide controlled access to the attributes of an object.
