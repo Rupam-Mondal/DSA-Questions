@@ -1,0 +1,25 @@
+1.What are the conditional operators in java?
+:-Conditional operators in Java include if, else if, and else, which are used for making decisions in your code.
+
+2.What are the types of operatprs based on the number of operands?
+:-Operators can be unary (one operand), binary (two operands), or ternary (three operands).
+
+3.What is the use of switch case in java programming?
+:-The switch-case statement in Java is used for decision-making based on the value of an expression.
+
+4.What are the priority levels of arithmatic operation in java?
+:-Arithmetic operators follow a specific order of priority, with multiplication and division having higher priority than addition and subtraction.
+
+5.What are the conditional statements and use of conditional statement?
+:-Conditional statements include if, if-else, and switch. They are used for making decisions in a program.
+
+6.What is the syntax of if else statement?
+:-if (condition) {
+    
+}
+
+7.What are the 3 types of iterative statements in java?
+:-Java has three types of iterative (loop) statements: for, while, and do-while.
+
+8.Write diff btw for loop and do-while loop?
+:-A for loop is a pre-test loop, and a do-while loop is a post-test loop. In a for loop, the condition is checked before execution, while in a do-while loop, it's checked after execution.
